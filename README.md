@@ -19,7 +19,7 @@ I am a Highly-motivated php laravel developer <img src="https://media.giphy.com/
 </div>
 
 
-### :Experince
+### Experince:
 
 - 🔭 I’m currently working on A Salon Project For Flure Empire
 - I built a personal Blog. you can check it out [https://github.com/Ngozistephen/blog]  
