@@ -11,6 +11,8 @@ You can Reach me on Any of these Social Media Platforms
 #EA4335 [ngozi.stephen99@gmail.com]
 #0A66C2 [www.linkedin.com/in/ngozi-stephen-6128b8166
 #1DA1F2 [https://twitter.com/Stephen_Ngozi]
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+
 
 ### Experince
 - 🔭 I’m currently working on A Salon Project For Flure Empire
