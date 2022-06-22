@@ -19,7 +19,8 @@ I am a Highly-motivated php laravel developer <img src="https://media.giphy.com/
 </div>
 
 
-### Experince
+### :Experince
+
 - 🔭 I’m currently working on A Salon Project For Flure Empire
 - I built a personal Blog. you can check it out [https://github.com/Ngozistephen/blog]  
 
@@ -60,3 +61,5 @@ I am a Highly-motivated php laravel developer <img src="https://media.giphy.com/
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
  
+ ### 🔥 My Stats :
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
