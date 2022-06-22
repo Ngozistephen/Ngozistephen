@@ -2,8 +2,9 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="(https://user-images.githubusercontent.com/60478145/175005183-2bc72b74-9407-4011-bbee-656984ef400e.png)" width="100"/>
 </div>
-![size changed](https://user-images.githubusercontent.com/60478145/175005183-2bc72b74-9407-4011-bbee-656984ef400e.png)
+![size changed]
 
 ### Hi, I am Ngozi Stephen Onyemauche 👋
 
@@ -27,7 +28,6 @@ You can Reach me on Any of these Social Media Platforms
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
 
 - 🌱 I’m currently learning Laravel Framework and Vue.js
 - 👯 I’m looking to collaborate on Laravel and Vue
