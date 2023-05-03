@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me :👋
  
-I am an enthusiastic fullstack developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> eager to contribute to team success through hard work,attention to detail and excellent organizational skills. Clear understanding of Web development Cycle and training in Laravel and Vue.js. Motivated to learn, grow and excel in Tech industry. Hardworking and passionate with strong organizational skills eager to secure entry-level position. Ready to help team achieve company goals.
+I am an enthusiastic fullstack developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> eager to contribute to team success through hard work,attention to detail and excellent organizational skills. Clear understanding of Web development Cycle and training in Laravel and Vue.js. Motivated to learn, grow and excel in Tech industry. Hardworking and passionate with strong organizational skills eager to secure Software Engineering position. Ready to help team achieve company goals.
 
 - 📫How to reach me:
 <div id="badges">
