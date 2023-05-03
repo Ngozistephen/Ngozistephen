@@ -1,12 +1,12 @@
-![size changed](https://user-images.githubusercontent.com/60478145/175014439-76b62192-ed2c-4a74-a149-3b3204cf2b83.png)
+<h1 align="center">Hi 👋, I'm Ngozi Stephen</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 
 ### 👨‍💻 About Me :👋
-
-I am a Highly-motivated php laravel developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria,seeking and creating opportunities that utilizies Laravel and Vue.js for a software engineering role. I am also a freelance developer looking for projects that will help boost my portfolio. My skills include php, laravel, Mysql, javascript, HTML, Bootstrap and CSS. But my main focus is with laravel and vue.js. 
+ 
+I am an enthusiastic fullstack developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> eager to contribute to team success through hard work,attention to detail and excellent organizational skills. Clear understanding of Web development Cycleand training in Laravel and Vue.js. Motivated to learn, grow and excel in Tech industry. Hardworking and passionate with strong organizational skills eager to secure entry-level position. Ready to help team achieve company goals.
 
 - 📫How to reach me:
 <div id="badges">
@@ -17,6 +17,16 @@ I am a Highly-motivated php laravel developer <img src="https://media.giphy.com/
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+## ⚡ Projects
+<!-- PROJECTS START -->
+* [CarParkVueApp](https://github.com/Ngozistephen/CarParkVueApp) **(🔥 A Front-End App built on Vue for Car Parking) 
+* [CarParkApp](https://github.com/Ngozistephen/CarParkApp) **(A Laravel API for Car Parking App) 
+* [RealEstateApp](https://github.com/Ngozistephen/RealEstateApp) **(forks (A SPA Real Estate App for Realtors..) 
+* [ProjectCRM](https://github.com/Ngozistephen/projectcrm) **(A Customer Relationship Management App built on Laravvel and Bootstrap 🔥) 
+* [NgoziBlog](https://github.com/Ngozistephen/ngoziblog) **(A Blog that is built on Laravel and Bootstrap ) 
+<!-- PROJECTS END -->
 
 
 ### Experince:
