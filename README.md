@@ -62,7 +62,7 @@ March 2018 to August 2018
 
 <!---HOBBY START -->
 ### Hobby 
-- 🌱 I’m currently learning Laravel Framework and Vue.js
+- 🌱 I’m currently working with Laravel Framework and Vue.js
 - 👯 I’m looking to collaborate on Laravel and Vue
 - 💬 Ask me about Anything Javascript and PHP
 - 📫 How to reach me: ...on this email address 
