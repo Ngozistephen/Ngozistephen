@@ -31,22 +31,37 @@ I am an enthusiastic fullstack developer  <img src="https://media.giphy.com/medi
 
 ### Experince:
 
-- 🔭 I’m currently working on A Salon Project For Flure Empire
-- I built a personal Blog. you can check it out [https://github.com/Ngozistephen/blog]  
+### Backend Developer Intern
+ ## SideHustle - Nigeria
+March 2022 to Dec, 2022
+- 🔭  Wrote high-quality code to meet customer requirements.• Cooperated with front-end developers and other team members to design more cohesive and functionalcode.• Integrated front-end elements into applications.
 
+### Content Developer
+  ## SchoolsFocus - Nuskka, Enugu
+March 2021 to May 2021
+- 🔭  Strengthened content through proofreading and editing.
+- 🔭 Conducted online research to obtain relevant information and materials.
+- 🔭 Crafted dynamic content marketing pieces for broad client base to drive consumer awareness ofbrands.
+- 🔭 Developed original content using social listening and independent sources.
+- 🔭Created dynamic graphics and pieces to increase website and social media traffic.
+- 🔭 Managed competing deadlines with efficiency.
+- 🔭Played instrumental role in creative planning and review sessions, working with resourceful team toelevate quality of content and designs.
 
+### Junior Technician
+ ## Imo State Water Development Agency (IWADA) - Owerri, Imo
+March 2018 to August 2018
+- 🔭  Assisted in Water Borehole Drilling and Completion from the Pre-drilling, Drilling stage and Post drillingstage. 
+- 🔭 We drilling borehole is some part of imo state, like World Bank area, Osu local govt. etc.
+-🔭Assisted in Borehole maintenance and rehabilitations
+
+### Hobby 
 - 🌱 I’m currently learning Laravel Framework and Vue.js
 - 👯 I’m looking to collaborate on Laravel and Vue
 - 💬 Ask me about Anything Javascript and PHP
 - 📫 How to reach me: ...on this email address 
-
 - ⚡ Fun fact: ... I am just started
-
 - 🌱 Exploring Technical Content Writing.
-
 - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-
 
 ### 🛠️ Languages and Tools :
 <div>
