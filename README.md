@@ -27,14 +27,14 @@ I am an enthusiastic fullstack developer  <img src="https://media.giphy.com/medi
 <!-- PROJECTS START -->
 * [CarParkVueApp](https://github.com/Ngozistephen/CarParkVueApp)(🔥 A Front-End App built on Vue for Car Parking) 
 * [CarParkApp](https://github.com/Ngozistephen/CarParkApp)(A Laravel API for Car Parking App) 
-* [RealEstateApp](https://github.com/Ngozistephen/RealEstateApp)(forks (A SPA Real Estate App for Realtors..) 
+* [RealEstateApp](https://github.com/Ngozistephen/RealEstateApp)(A SPA Real Estate App for Realtors..) 
 * [ProjectCRM](https://github.com/Ngozistephen/projectcrm)(A Customer Relationship Management App built on Laravel and Bootstrap 🔥) 
 * [NgoziBlog](https://github.com/Ngozistephen/ngoziblog)(A Blog that is built on Laravel and Bootstrap ) 
 <!-- PROJECTS END -->
 
 
-### Experince:
-
+### Experince
+<!---EXPERINCE START -->
 ### Backend Developer Intern
  ## SideHustle - Nigeria
 March 2022 to Dec, 2022
@@ -43,8 +43,8 @@ March 2022 to Dec, 2022
 - 🔭 Integrated front-end elements into applications.
 
 ### Content Developer
-  ## SchoolsFocus - Nuskka, Enugu
-March 2021 to May 2021
+  ### SchoolsFocus - Nuskka, Enugu
+  March 2021 to May 2021
 - 🔭 Strengthened content through proofreading and editing.
 - 🔭 Conducted online research to obtain relevant information and materials.
 - 🔭 Crafted dynamic content marketing pieces for broad client base to drive consumer awareness ofbrands.
@@ -54,12 +54,14 @@ March 2021 to May 2021
 - 🔭 Played instrumental role in creative planning and review sessions, working with resourceful team toelevate quality of content and designs.
 
 ### Junior Technician
- ## Imo State Water Development Agency (IWADA) - Owerri, Imo
+ ### Imo State Water Development Agency (IWADA) - Owerri, Imo
 March 2018 to August 2018
 - 🔭 Assisted in Water Borehole Drilling and Completion from the Pre-drilling, Drilling stage and Post drillingstage. 
 - 🔭 We drilling borehole is some part of imo state, like World Bank area, Osu local govt. etc.
 - 🔭 Assisted in Borehole maintenance and rehabilitations
+<!---EXPERINCE END -->
 
+<!---HOBBY START -->
 ### Hobby 
 - 🌱 I’m currently learning Laravel Framework and Vue.js
 - 👯 I’m looking to collaborate on Laravel and Vue
@@ -68,8 +70,9 @@ March 2018 to August 2018
 - ⚡ Fun fact: ... I am just started
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+<!---HOBBY END -->
 
-### 🛠️ Languages and Tools :
+### 🛠️ Languages and Tools
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="JPhp" width="40" height="40"/>&nbsp;
