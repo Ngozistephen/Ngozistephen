@@ -32,7 +32,6 @@ I am an enthusiastic fullstack developer  <img src="https://media.giphy.com/medi
 * [NgoziBlog](https://github.com/Ngozistephen/ngoziblog)(A Blog that is built on Laravel and Bootstrap ) 
 <!-- PROJECTS END -->
 
-
 ### Experince
 <!---EXPERINCE START -->
 ### Backend Developer Intern
