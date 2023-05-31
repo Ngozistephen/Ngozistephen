@@ -25,11 +25,11 @@ I am an enthusiastic fullstack developer  <img src="https://media.giphy.com/medi
 
 ## ⚡ Projects
 <!-- PROJECTS START -->
+* [BookingApp](https://github.com/Ngozistephen/BookingApp)(🔥 API endpoints for managing properties, property search, showing apartments/rooms data, and making bookings.) 
 * [CarParkVueApp](https://github.com/Ngozistephen/CarParkVueApp)(🔥 A Front-End App built on Vue for Car Parking) 
 * [CarParkApp](https://github.com/Ngozistephen/CarParkApp)(A Laravel API for Car Parking App) 
 * [RealEstateApp](https://github.com/Ngozistephen/RealEstateApp)(A SPA Real Estate App for Realtors..) 
 * [ProjectCRM](https://github.com/Ngozistephen/projectcrm)(A Customer Relationship Management App built on Laravel and Bootstrap 🔥) 
-* [NgoziBlog](https://github.com/Ngozistephen/ngoziblog)(A Blog that is built on Laravel and Bootstrap ) 
 <!-- PROJECTS END -->
 
 ### Experince
